@@ -2,4 +2,4 @@
 helloworld
 try
 
-## Closing remarks
+## Ending remarks
